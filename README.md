@@ -1,1 +1,2 @@
 # Filipino-Fake-News-Detection
+This is a group project between my classmates and I who are tasked to create a Fake News Detection but with a twist. It needs to be tagalog articles which is quite hard since finding the right data for this is challenging. The other challenge for this is to use 2 machine learning techniques. We used Logistic Regression and Support Vector Machine (SVM) for this project since the both of them are good algorithms for detecting fake news
